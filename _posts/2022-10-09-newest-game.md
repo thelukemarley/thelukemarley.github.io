@@ -14,6 +14,6 @@ I worked on the programming for Brigham Young University’s 2023 game project, 
 
 * Worked with C++ scripts and blueprints to implement game functionality
 * Worked on developing features, fixing bugs, and tuning gameplay as part of a team
-* [View on Steam](https://store.steampowered.com/app/2408120/Solar_Showdown/)https://store.steampowered.com/app/2408120/Solar_Showdown/
+* [View on Steam](https://store.steampowered.com/app/2408120/Solar_Showdown/)
 
 ![Picture 3](/assets/image.png)
