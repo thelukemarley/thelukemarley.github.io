@@ -6,6 +6,6 @@ permalink: /about/
 
 ![Picture 1](/assets/fullsize.png)
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
+Hello! My name is Luke Marley. I’m extremely passionate about the game industry and looking to gain experience in the field. 
 
-If you're interested in what I can offer your company, please contact me!
+If you’re looking for interns for spring/summer 2024, I’d be very excited to work with you.
