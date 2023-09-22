@@ -3,7 +3,7 @@ layout: post
 title:  "Entanglement"
 summary: "Designer & Programmer"
 date:   2022-10-07 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/thumb 2.png
 ---
 I'm currently working on a puzzle game in Unity. The game has a central mechanic of objects being able to be in multiple places at the same time, and is about exploring the interesting unintended consequences of that mechanic.
 
