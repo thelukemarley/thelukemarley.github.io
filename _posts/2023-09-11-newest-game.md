@@ -2,7 +2,7 @@
 layout: post
 title:  "Solar Showdown"
 summary: "Programmer"
-date:   2023-10-09 15:39:40
+date:   2023-09-11 15:39:40
 preview: /assets/solar showdown.png
 ---
 I worked on the programming for Brigham Young University’s 2023 game project, Solar Showdown. We used Unreal Engine 5 to create a 1v1 multiplayer game with RTS and tower defense elements.
