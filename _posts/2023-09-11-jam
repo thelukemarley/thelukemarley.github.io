@@ -5,7 +5,11 @@ summary: "Programmer"
 date:   2023-09-11 15:39:40
 preview: /assets/thumb 6.png
 ---
+I worked in a group of 6 people to create a game in 48 hours. We used Unreal Engine 5 to create a small puzzle game about changing dimensions, featuring detailed environments.
 
+* Worked with Unreal blueprints to create a dynamic interactive world
+* Created a persistant dynamic music system and made all music
+* [View on Itch.io](https://hdeck.itch.io/aurelius-archibald-astralorns-traveling-tower)
 
 ![Picture 1](/assets/aaatt1.png)
 ![Picture 2](/assets/aaatt2.png)
